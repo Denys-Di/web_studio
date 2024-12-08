@@ -1,1 +1,1 @@
-# web_studio
+# goit-markup-hw-06
